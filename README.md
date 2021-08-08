@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Medhe</h1>
 <h3 align="center">Computer geek kid turned Software Engineer</h3>
 
+Currently, I am in the early stage of a self re-education mission wherein I gain the fundamental knowledge about various CS concepts, programming language of choice, and data structures and algorithms. I am also searching for a field I can deep-dive and achieve expertise in. I want to move away from being just a web developer.
+
 - 👨‍💻 More info about me at: [https://aditya.medhe.in](https://aditya.medhe.in)
 
 - 📫 How to reach me: **adityamedhe3@gmail.com**
